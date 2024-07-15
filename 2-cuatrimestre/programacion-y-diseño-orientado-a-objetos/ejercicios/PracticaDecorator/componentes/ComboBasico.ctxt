@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ComboBasico
+comment0.text=\r\n\ Indica\ un\ tipo\ de\ combo\ basico,\ \r\n\ heredando\ de\ la\ clase\ padre\ Combo\r\n\ @author\ \r\n\r\n
+comment1.params=
+comment1.target=ComboBasico()
+comment2.params=
+comment2.target=int\ valor()
+numComments=3

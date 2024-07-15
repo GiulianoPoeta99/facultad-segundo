@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Automovil
+comment1.params=marca\ modelo\ anio
+comment1.target=Automovil(java.lang.String,\ java.lang.String,\ int)
+comment2.params=o
+comment2.target=int\ compareTo(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.String\ getModelo()
+comment3.text=\ version\ de\ compareTo\ con\ generics\npublic\ int\ compareTo(Automovil\ otroAuto)\n{\n\ \ \ \ //con\ generics\ no\ es\ necesario\ hacer\ la\ conversion\ de\ tipos\n\ \ \ \ return\ marca.compareTo(otroAuto.marca);\n}\n
+comment4.params=
+comment4.target=int\ getAnio()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Inmueble
+comment1.params=m2
+comment1.target=Inmueble(double)
+comment2.params=
+comment2.target=double\ getValorAlquiler()
+comment3.params=vm2
+comment3.target=void\ setValorM2(double)
+comment4.params=
+comment4.target=double\ getValorM2()
+numComments=5

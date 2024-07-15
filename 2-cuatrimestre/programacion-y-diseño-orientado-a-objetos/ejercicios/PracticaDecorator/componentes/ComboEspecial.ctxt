@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ComboEspecial
+comment0.text=\r\n\ Indica\ un\ tipo\ de\ combo\ Especial,\ \r\n\ heredando\ de\ la\ clase\ padre\ Combo\r\n\ @author\ \r\n\r\n
+comment1.params=
+comment1.target=ComboEspecial()
+comment2.params=
+comment2.target=int\ valor()
+numComments=3

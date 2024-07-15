@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MainColecciones
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=o1\ o2
+comment2.target=int\ compare(java.lang.Object,\ java.lang.Object)
+numComments=3

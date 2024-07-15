@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=semaforo
+comment0.target=void\ setSemaforo(Semaforo)
+comment1.params=
+comment1.target=Semaforo\ getSemaforo()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ run()
+numComments=4

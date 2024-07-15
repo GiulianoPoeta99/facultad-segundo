@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Perro
+comment1.params=nombre\ edad
+comment1.target=Perro(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ ladrar()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=o
+comment4.target=int\ compareTo(java.lang.Object)
+comment5.params=
+comment5.target=int\ getEdad()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Multiplicacion
+comment0.text=\n\ \n
+comment1.params=e1\ e2
+comment1.target=Multiplicacion(Expresion,\ Expresion)
+comment1.text=\n\ Default\ constructor\n
+comment2.params=
+comment2.target=double\ getValor()
+comment2.text=\n\ @return\n
+numComments=3

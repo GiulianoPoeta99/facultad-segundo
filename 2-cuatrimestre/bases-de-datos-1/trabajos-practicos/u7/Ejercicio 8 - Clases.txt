@@ -1,0 +1,34 @@
+-- EJERCICIO 8: Clases
+
+group: CLASES 
+
+
+ASIGNATURAS = {
+	codigo:string, nombre:string
+	'BD1', 'Bases de datos I'
+	'IS1', 'Ingeniería de Software I'
+	'IS2', 'Ingeniería de Software II'
+}
+
+PROFESORES = {
+	documento:number, nombre:string
+	11222333, 'Jason Voorhees'
+	22333444, 'Freddy Krueger'
+	33444555, 'Michael Myers'
+}
+
+CLASES = {
+	fecha:date, asignatura:string, piso:number, aula:number
+	2022-05-20, 'BD1', 1, 1
+	2022-05-21, 'IS1', 1, 2
+	2022-05-22, 'IS2', 2, 1
+}
+
+ASISTENCIAS = {
+	fecha:date, asignatura:string, profesor:number
+	2022-05-20, 'BD1', 11222333
+	2022-05-20, 'BD1', 22333444
+	2022-05-21, 'IS1', 33444555
+	2022-05-22, 'IS2', 11222333
+	2022-05-22, 'IS2', 33444555
+}

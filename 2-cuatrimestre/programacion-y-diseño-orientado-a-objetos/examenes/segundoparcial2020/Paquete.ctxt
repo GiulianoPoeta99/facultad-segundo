@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Paquete
+comment1.params=
+comment1.target=Paquete()
+comment2.params=p
+comment2.target=void\ add(Producto)
+comment3.params=
+comment3.target=double\ getValor()
+numComments=4

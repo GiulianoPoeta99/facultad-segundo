@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=IdComparator
+comment1.params=p1\ p2
+comment1.target=int\ compare(Persona2,\ Persona2)
+numComments=2

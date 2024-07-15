@@ -1,0 +1,35 @@
+-- EJERCICIO 9: Programas
+
+group: USO_DE_PROGRAMAS
+
+
+PROGRAMAS = {
+	codigo:string, nombre:string, sistema_operativo:string, memoria:string, empresa:string
+	'PR1', 'AutoCad',	'Windows',	'512MB',	'AutoDesk'
+	'PR2', 'PhotoShop',	'Windows',	'256MB',	'Adobe'
+	'PR3', 'LibreOffice',	'Linux',	'128MB',	'Document Foundation'
+	'PR4', 'Acrobat Reader','Windows',	'128MB',	'Adobe'
+}
+
+USUARIOS = {
+	documento:number, fecha_nacimiento:date, genero:string
+	99888777, 1980-03-02, 'Femenino'
+	88777666, 1979-06-05, 'Masculino'
+	66555444, 1978-12-09, 'Femenino'
+}
+
+COMPUTADORAS = {
+	codigo:string, modelo:string, sistema_operativo:string, memoria:string
+	'CPU1', 'XE-200', 'Windows', '2000MB'
+	'CPU2', 'XT-300', 'Linux', '2000MB'
+	'CPU3', 'XR-200', 'Windows', '3000MB'
+}
+
+USOS ={
+	usuario:number, programa:string, computadora:string
+	99888777,'PR1','CPU1'
+	99888777,'PR4','CPU1'
+	88777666,'PR2','CPU3'
+	88777666,'PR4','CPU1'
+	66555444,'PR3','CPU2'
+}

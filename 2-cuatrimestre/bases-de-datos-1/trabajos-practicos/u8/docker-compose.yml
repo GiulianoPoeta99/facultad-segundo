@@ -1,0 +1,29 @@
+version: '3.8'
+services:
+  pgadmin:
+    container_name: pgadmin
+    image: dpage/pgadmin4
+    restart: always
+    ports:
+      - "5051:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: npramos@untdf.edu.ar
+      PGADMIN_DEFAULT_PASSWORD: 123456
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+
+  postgres:
+    container_name: postgres
+    image: postgres:latest
+    restart: always
+    ports:
+      - "5435:5432"
+    environment:
+      POSTGRES_USER: dbi
+      POSTGRES_PASSWORD: 123456
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - ./inicializar:/docker-entrypoint-initdb.d
+volumes:
+  pgadmin_data:
+  pg_data:

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PorHora
+comment1.params=
+comment1.target=PorHora()
+comment2.params=apellido\ nombre\ horas\ horasEx
+comment2.target=PorHora(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=double\ getSueldo()
+numComments=4

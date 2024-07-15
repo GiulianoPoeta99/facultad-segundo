@@ -1,0 +1,38 @@
+-- Ejercicio 6: Reunión Natural
+
+group: PRESTAMOS
+
+PRESTATARIOS = {
+	cliente:number,	nro_prestamo:string
+	19283746,	'P-17'
+	22789901,	'P-23'
+	20147987,	'P-15'
+	18273609,	'P-14'
+	33666998,	'P-93'
+	19283746,	'P-11'
+	20147987,	'P-16'
+}
+
+CLIENTES = {
+	dni:number, nombre:string,	direccion:string,	telefono:string
+	19283746	'José Abraham Trejo'	'Isla San Pedro 579'	'435874'
+	22789901	'Samuel Bautista'	'Akainik 684'	'436611'
+	20147987	'Juan Carlos Manccini'	'Monseñor Scriva 749'	'422564'
+	18273609	'Marcos Javier Lemus Huerta'	'Salta 2452'	'421554'
+	33666998	'Marcelo Javier Santos'	'Alem 2163'	'430057'
+	17645975	'Mirta Beatriz Arévalo'	'Hol Hol 2178'	'423717'
+
+}
+
+
+PRESTAMOS = {
+	sucursal:string,	nro_prestamo:string,	importe:number
+	'Las Heras',	'P-17',	200000
+	'San Martín',	'P-23',	400000
+	'Kuanip',	'P-15',	300000
+	'Gdor. Godoy',	'P-14',	300000
+	'Maipú',	'P-93',	100000
+	'Rivadavia',	'P-11',	180000
+	'Belgrano',	'P-16',	260000
+	'kuanip',	'P-18',	9000
+}

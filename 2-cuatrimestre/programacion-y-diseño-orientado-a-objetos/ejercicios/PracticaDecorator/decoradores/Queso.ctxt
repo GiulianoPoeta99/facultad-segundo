@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Queso
+comment0.text=\r\n\ (Decorator\ Concreto)\r\n\ clase\ queso,\ siendo\ esta\ un\ adicional,\ \r\n\ cuenta\ con\ una\ descripcion\ y\ un\ precio\r\n\ @author\ \r\n\r\n
+comment1.params=combo
+comment1.target=Queso(componentes.Combo)
+comment2.params=
+comment2.target=java.lang.String\ getDescripcion()
+comment3.params=
+comment3.target=int\ valor()
+numComments=4

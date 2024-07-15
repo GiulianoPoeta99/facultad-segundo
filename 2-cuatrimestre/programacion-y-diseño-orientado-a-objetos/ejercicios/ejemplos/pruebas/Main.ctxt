@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ La\ clase\ Main\ inicia\ la\ ejecuci\u00F3n\ del\ programa\n\ tiene\ que\ ser\ public\ y\ contener\ el\ m\u00E9todo\n\ public\ static\ void\ main(String[]\ args)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ m\u00E9todo\ de\ clase\ que\ inicia\ la\ ejecuci\u00F3n\ del\ programa\n
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Subordinado
+comment1.params=
+comment1.target=Subordinado()
+comment2.params=apellido\ nombre\ nroArticulos
+comment2.target=Subordinado(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=double\ getSueldo()
+numComments=4

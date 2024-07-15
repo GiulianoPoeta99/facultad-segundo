@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Comision
+comment1.params=
+comment1.target=Comision()
+comment2.params=apellido\ nombre\ sueldo\ cantVentas
+comment2.target=Comision(java.lang.String,\ java.lang.String,\ double,\ double)
+comment3.params=cantVentas
+comment3.target=void\ setCantidad(double)
+comment4.params=
+comment4.target=double\ getSueldo()
+numComments=5

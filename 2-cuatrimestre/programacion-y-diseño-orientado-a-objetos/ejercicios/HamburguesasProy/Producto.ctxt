@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Producto
+comment0.text=\n\ \n
+comment1.params=
+comment1.target=Producto()
+comment1.text=\n\ Default\ constructor\n
+comment2.params=
+comment2.target=double\ getPrecio()
+comment2.text=\n\ @return\n
+comment3.params=
+comment3.target=java.lang.String\ getDescripcion()
+comment3.text=\n\ @return\n
+numComments=4

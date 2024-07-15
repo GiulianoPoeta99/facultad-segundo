@@ -1,0 +1,21 @@
+-- Ejercicio 4: Unión, intersección y diferencia
+
+group: clientes_sucursales
+
+
+CLIENTE_SUCURSAL_38={		
+	dni:number,	nombre:string,	direccion:string,	telefono:string, edad:number
+	17645975	"Mirta Beatriz Arévalo"	"Hol Hol 2178"	"423717" 59
+	20147987	"Juan Carlos Manccini"	"Monseñor Scriva 749"	"422564" 47
+	31678954	"Sebastián Campos"	"Shanamaim 804"	"433611" 35
+	22789901	"Samuel Bautista"	"Akainik 684"	"421711" 49
+}
+
+CLIENTE_SUCURSAL_43={		
+	dni:number,	nombre:string,	direccion:string,	telefono:string, edad:number
+	19283746	"José Abraham Trejo"	"Isla San Pedro 579"	"435874" 56
+	22789901	"Samuel Bautista"	"Akainik 684"	"421711" 49
+	20147987	"Juan Carlos Manccini"	"Monseñor Scriva 749"	"422564" 47
+	18273609	"Marcos Javier Lemus Huerta"	"Salta 2452"	"421554" 54
+	33666998	"Marcelo Javier Santos"	"Alem 2163"	"430057" 33
+}

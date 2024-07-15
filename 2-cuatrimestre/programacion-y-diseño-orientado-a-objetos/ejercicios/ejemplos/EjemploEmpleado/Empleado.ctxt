@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Empleado
+comment1.params=apellido\ nombre\ fechContratacion\ fechCumpleanios
+comment1.target=Empleado(java.lang.String,\ java.lang.String,\ MiFecha,\ MiFecha)
+comment2.params=
+comment2.target=void\ finalize()
+comment3.params=
+comment3.target=java.lang.String\ cadenaFechaContratacion()
+comment4.params=
+comment4.target=java.lang.String\ cadenaFechaCumpleanios()
+comment5.params=
+comment5.target=int\ getCantidad()
+numComments=6

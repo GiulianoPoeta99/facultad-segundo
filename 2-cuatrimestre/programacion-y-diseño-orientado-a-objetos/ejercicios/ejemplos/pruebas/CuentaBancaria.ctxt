@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=CuentaBancaria
+comment0.text=\n\ Clase\ que\ modela\ una\ cuenta\ bancaria\n
+comment1.params=
+comment1.target=CuentaBancaria()
+comment2.params=platita
+comment2.target=CuentaBancaria(double)
+comment2.text=\n\ constructor\ con\ parametros\n\ @param\ platita\ saldo\ inicial\ de\ la\ cuenta\n
+comment3.params=platita
+comment3.target=void\ deposito(double)
+comment4.params=
+comment4.target=double\ getSaldo()
+comment4.text=\n\ retorna\ el\ saldo\ de\ la\ cuenta\n
+comment5.params=
+comment5.target=int\ getNroCuenta()
+comment5.text=\n\ retorna\ el\ numero\ de\ cuenta\n
+numComments=6

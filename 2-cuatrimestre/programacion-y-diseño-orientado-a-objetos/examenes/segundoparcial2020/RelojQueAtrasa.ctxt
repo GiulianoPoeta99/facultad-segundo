@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RelojQueAtrasa
+comment1.params=
+comment1.target=RelojQueAtrasa()
+comment2.params=
+comment2.target=RelojQueAtrasa\ getInstance()
+comment3.params=
+comment3.target=void\ run()
+comment4.params=
+comment4.target=java.util.Date\ getHora()
+numComments=5

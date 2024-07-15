@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Imagen()
+comment1.params=o\ ob
+comment1.target=void\ update(java.util.Observable,\ java.lang.Object)
+comment2.params=
+comment2.target=void\ initComponents()
+numComments=3

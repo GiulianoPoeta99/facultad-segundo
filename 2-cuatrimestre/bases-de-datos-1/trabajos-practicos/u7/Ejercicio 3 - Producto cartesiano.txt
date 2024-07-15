@@ -1,0 +1,20 @@
+/*
+Ejercicio 3: Producto cartesiano
+*/
+
+group: empleados_categorias
+
+CATEGORIAS = {
+	nombre:string, sueldo_base:string, antiguedad:number
+	'A' 60000 15
+	'B' 40000 10
+	'C' 20000 5
+}
+
+EMPLEADOS = {
+	dni:number, nombre:string, direccion:string, categoria:string, fecha_ingreso:date
+	17645975	"Mirta Beatriz Arévalo"	"Hol Hol 2178"	'A' 2005-09-01
+	20147987	"Juan Carlos Manccini"	"Monseñor Scriva 749"	'C' 2017-03-25
+	31678954	"Sebastián Campos"	"Shanamaim 804"	'B' 2009-12-05
+	36478984  "Ismael Castillo" null 'C' 2012-04-28
+}

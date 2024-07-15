@@ -1,0 +1,25 @@
+-- Ejercicio 7: Ventas
+
+group: VENTAS
+
+VENDEDORES = {
+	documento:number, nombre:string, nacimiento:date, salario:number
+	11111111, 'Juan Perez',		1969-01-01, 	11500.00
+	22222222, 'Ernesto Alvarez',	1977-06-30,	10200.00
+	33333333, 'Hugo Gonzalez',	1968-12-05,	15020.00
+}
+
+CLIENTES = {
+	documento:number, nombre:string, ciudad:string, industria:string
+	99999999, 'Alvaro Fernandez',	'Ushuaia',	'Aber-Construccion'
+	88888888, 'Carlos Argento',	'Rio Grandre',	'Finer-Construccion'
+	77777777, 'Alberto Etevez',	'Ushuaia',	'Aber-Construccion'
+}
+
+ORDENES = {
+	numero:number, ano:number, cliente:number, vendedor:number, monto:number
+	1, 2022, 99999999, 11111111, 750.00
+	2, 2022, 88888888, 11111111, 500.00
+	3, 2022, 77777777, 33333333, 920.00
+	4, 2022, 88888888, 22222222, 1500.00
+} 

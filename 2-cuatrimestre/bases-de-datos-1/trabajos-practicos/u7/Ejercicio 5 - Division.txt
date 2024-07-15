@@ -1,0 +1,33 @@
+-- Práctico N° 2 - Ejercicio 5: División
+
+group: CLIENTES_PROPIEDADES
+
+PROPIEDADES ={
+	codigo:string,	direccion:string,	propietario:string,	cant_habitantes:number
+	"CP001"	"Hol Hol 2178"	"Mirta Beatriz Arévalo"	3
+	"CP007"	"Shanamaim 804"	"Sebastián Campos"	2
+	"CP015"	"Las Margaritas 493"	"Sonia Celeste Robles"	3
+}
+
+CLIENTES = {
+	dni:number,	nombre:string,	direccion:string,	telefono:string
+	19283746	"José Abraham Trejo"	"Isla San Pedro 579"	"435874"
+	22789901	"Samuel Bautista"	"Akainik 684"	"436611"
+	20147987	"Juan Carlos Manccini"	"Monseñor Scriva 749"	"422564"
+	18273609	"Marcos Javier Lemus Huerta"	"Salta 2452"	"421554"
+	33666998	"Marcelo Javier Santos"	"Alem 2163"	"430057"
+}
+
+VISITAS = {
+	cliente:number,	propiedad:string, fecha_visita:date
+	19283746	"CP001"	2015-08-01
+	22789901	"CP007"	2015-08-09
+	20147987	"CP001"	2015-08-11
+	18273609	"CP015"	2015-08-10
+	33666998	"CP001"	2015-08-05
+	18273609	"CP007"	2015-08-07
+	19283746	"CP015"	2015-08-12
+	18273609  	"CP001"	2015-09-02
+	19283746	"CP007"	2015-08-06
+	22789901  	"CP001"	2015-08-14
+}

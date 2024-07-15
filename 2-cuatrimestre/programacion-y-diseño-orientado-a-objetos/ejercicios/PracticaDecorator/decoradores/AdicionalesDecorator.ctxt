@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AdicionalesDecorator
+comment0.text=\r\n\ (Decorator)\r\n\ Clase\ abstracta\ de\ los\ productos\ adicionales,\r\n\ cuenta\ con\ una\ descripcion\ del\ producto\r\n\ @author\ \r\n\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDescripcion()
+numComments=2

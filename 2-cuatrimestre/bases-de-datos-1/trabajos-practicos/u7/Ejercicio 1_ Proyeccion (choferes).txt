@@ -1,0 +1,11 @@
+Ejercicio 1: Proyección
+
+group: choferes 
+
+CHOFERES = {
+	dni:number, nombre:string, direccion:string, antiguedad:number, categoria:string
+	19283746	"Jose Abraham Trejo"		"Isla San Pedro 579"	18	"C"
+	22789901	"Samuel Bautista"		"Akainik 684"		7	"E"
+	18273609	"Marcos Javier Lemus Huerta"	"Salta 2452"		15	"E"
+	33666998	"Marcelo Javier Santos"		"Alem 2163"		3	"D"
+}

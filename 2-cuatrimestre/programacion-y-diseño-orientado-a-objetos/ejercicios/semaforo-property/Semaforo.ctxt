@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Semaforo
+comment0.text=\n\ Write\ a\ description\ of\ class\ Semaforo\ here.\n\ \n\ @author\ Martin\ Villarreal\ \n\ @version\ 0.1\n
+comment1.params=l
+comment1.target=void\ addObserver(java.beans.PropertyChangeListener)
+comment2.params=
+comment2.target=Semaforo()
+comment3.params=
+comment3.target=void\ change()
+comment4.params=
+comment4.target=Semaforo.ESTADO_SEMAFORO\ getEstado()
+comment5.params=estado
+comment5.target=void\ setEstado(Semaforo.ESTADO_SEMAFORO)
+numComments=6

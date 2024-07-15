@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=VentanaMenu
+comment0.text=\r\n\ Clase\ GUI,\ es\ la\ ventana\ interfaz\ de\ \r\n\ usuario,\ en\ la\ que\ se\ permite\ la\ seleccion\ de\r\n\ un\ combo\ y\ el\ calculo\ de\ su\ valor\ con\ o\ sin\ adicionales\r\n\ @author\ \r\n\r\n
+comment1.params=
+comment1.target=VentanaMenu()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=combo
+comment3.target=void\ enviarPedido(componentes.Combo)
+comment3.text=\r\n\ Aplicamos\ conceptos\ de\ polimorfismo\ para\ definir\r\n\ la\ porcion\ del\ combo\ seleccinado\ y\ luego\r\n\ se\ envia\ al\ area2\ correspondiente\ a\ la\ del\ envio\r\n\ definido\ por\ el\ usuario\r\n\ @param\ combo\r\n
+comment4.params=
+comment4.target=void\ verificaSeleccion()
+comment4.text=\r\n\ Valida\ la\ seleccion\ realizada\ y\ envia\ la\ correspondiente\r\n\ descripcion\ al\ area\ de\ texto\r\n
+comment5.params=b
+comment5.target=void\ habilitar(boolean)
+numComments=6

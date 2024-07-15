@@ -1,0 +1,39 @@
+-- Ej 10 - Proyectos
+
+group: Ej10
+
+
+EMPLEADOS = {
+	legajo:number, documento:number, nombre:date, ingreso:string, departamento:string
+	1111, 33222111, 'Alberto Perez', 2005-05-05, 'DP1'
+	2222, 22111333, 'Juan Gonzalez', 2006-06-06, 'DA1'
+	3333, 11333222, 'Pedro Alvarez', 2007-07-07, 'DP2'
+	4444, 44444444, 'Juan de los Palotes', 2004-04-04, 'DP1'
+	5555, 55555555, 'Walter Palmera', 2003-03-03, 'DP2'
+}
+
+DEPARTAMENTOS = {
+	codigo:string, nombre:string
+	'DP1', 'Dirección de Proyectos'
+	'DA1', 'Departamento de Análisis'
+	'DP2', 'Departamento de Planificación'
+}
+
+PROYECTOS = {
+	codigo:string, nombre:string, departamento:string
+	'PY1', 'Plaza Piedrabuena', 'DP1'
+	'PY2', 'Plazoleta Alem', 'DP1'
+	'PY3', 'Barrio Andorra', 'DA2'
+}
+
+TRABAJAN = {
+	proyecto:string, empleado:number, horas:number
+	'PY1', 1111, 15
+	'PY1', 2222, 8
+	'PY1', 4444, 20
+	'PY2', 2222, 8
+	'PY2', 3333, 11
+	'PY2', 1111, 1
+	'PY3', 3333, 5
+	'PY3', 1111, 2
+}

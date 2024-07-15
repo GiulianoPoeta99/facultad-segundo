@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=OperacionBinaria
+comment0.text=\n\ \n
+comment1.params=e1\ e2
+comment1.target=OperacionBinaria(Expresion,\ Expresion)
+comment1.text=\n\ Default\ constructor\n
+numComments=2
